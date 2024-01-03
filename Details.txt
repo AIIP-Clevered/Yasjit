@@ -1,0 +1,6 @@
+Name:  Yashjit Das
+Age: 12
+Grade: 7
+Hobbies: Drawing, Programming, Origami,Playing the violin
+Country: India
+Project Name: Emotion Detection App
